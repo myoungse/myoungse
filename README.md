@@ -48,11 +48,14 @@ If you have anything you'd like to share or discuss, feel free to chat with me! 
 
 ## Online Presence
 <span>
-    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
+    <a href="https://github.com/myoungse">
+        <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+    <a href="https://velog.io/@myoungse0112/posts">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
 </span>
+&nbsp;&nbsp;
 <span>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white"/>
 </span>
