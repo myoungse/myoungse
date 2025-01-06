@@ -55,9 +55,10 @@ If you have anything you'd like to share or discuss, feel free to chat with me! 
     <a href="https://velog.io/@myoungse0112/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Contact
 <span>
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord_audtp-535353?labelColor=5865F2>
 </span>
 <br><br><br>
 
