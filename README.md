@@ -8,7 +8,7 @@
 
 <div align="left">
 Hi! My name is Myoungse Yoon, I'm a university student mainly studying AI and Data.
-If you have anything you'd like to share or discuss, feel free to chat with me! :)
+/n If you have anything you'd like to share or discuss, feel free to chat with me! :)
 </div>
 <br><br>
 
