@@ -4,7 +4,7 @@
 <br><br>
 
 <!-- Introduce -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=1000&center=true&width=700&height=50&lines=Hi%2C+welcome+to+Myoungse's+Github.;I+mainly+study+AI+and+data" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=1000&center=true&width=700&height=40&lines=Hi%2C+welcome+to+Myoungse's+Github.;I+mainly+study+AI+and+data" alt="Typing SVG" /></a>
 
 <div align="left">
 Hi! My name is Myoungse Yoon, I'm a university student mainly studying AI and Data.<br>
