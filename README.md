@@ -7,8 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=1000&center=true&width=770&height=70&lines=Hi%2C+Welcome+to+Myoungse's+Github.;I+mainly+study+AI+and+data." alt="Typing SVG" /></a>
 
 <div align="left">
-Hi! My name is Myoungse Yoon, I'm a university student mainly studying AI and Data.
-/n If you have anything you'd like to share or discuss, feel free to chat with me! :)
+Hi! My name is Myoungse Yoon, I'm a university student mainly studying AI and Data.<br>
+If you have anything you'd like to share or discuss, feel free to chat with me! :)
 </div>
 <br><br>
 
