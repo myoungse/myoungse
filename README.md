@@ -44,6 +44,19 @@ If you have anything you'd like to share or discuss, feel free to chat with me! 
 <span>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 </span>
+<br><br>
+
+## Online Presence
+<span>
+    <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white"/>
+</span>
+<br><br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
