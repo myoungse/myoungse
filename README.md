@@ -21,6 +21,22 @@ If you have anything you'd like to share or discuss, feel free to chat with me! 
 <span>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
 </span>
+<span>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
+</span>
+<br>
+<span>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=plastic&logo=Raspberry Pi&logoColor=white"/>
+</span>
 
 
 <!-- Footer banner -->
