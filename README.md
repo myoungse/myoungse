@@ -22,22 +22,28 @@ If you have anything you'd like to share or discuss, feel free to chat with me! 
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
 </span>
-<br>
 <span>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=plastic&logo=Raspberry Pi&logoColor=white"/>
 </span>
-
+<br>
+<span>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
+</span>
+<br>
+<span>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+</span>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
