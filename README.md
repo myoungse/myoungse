@@ -50,7 +50,7 @@ If you have anything you'd like to share or discuss, feel free to chat with me! 
 <span>
     <a href="https://github.com/myoungse">
         <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
-</span>
+</span>&nbsp;
 <span>
     <a href="https://velog.io/@myoungse0112/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
