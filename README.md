@@ -1,69 +1,74 @@
-<div align="center">
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br><br>
+<h1 align="center"> 💡 About Me </h1>
 
-<!-- Introduce -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4500&pause=1000&center=true&width=700&height=50&lines=Hi%2C+welcome+to+Myoungse's+Github.;I+mainly+study+AI+and+data" alt="Typing SVG" /></a>
+<p align="center">
+동의대학교 인공지능학과 4학년 재학생입니다.<br>
+AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데이터 분석, 웹 개발, 클라우드 컴퓨팅 등 기술 영역을 탐구하며 이론과 실습을 통해 지식의 폭을 넓혀가고 있습니다. 
+작은 실패도 성장의 일부라고 생각하며, 새로운 도전을 두려워하지 않습니다. 데이터와 기술이 실제 생활을 더 편리하게 만들 수 있다는 점에 매력을 느끼고, 작은 변화라도 직접 만들어보고 싶다는 마음으로 공부하고 있습니다.
+느릴 때도 있지만, 꾸준히 배우고 성장하려고 항상 노력합니다.
 
-<div align="left">
-Hi! My name is Myoungse Yoon, I'm a university student mainly studying AI and Data.<br>
-If you have anything you'd like to share or discuss, feel free to chat with me! :)
-</div>
-<br><br>
+</p>
 
-<details>
-<summary>About Me</summary>
 
-<div align="left">
+---
 
-## ADDITIONAL SKILLS
-<span>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=plastic&logo=Raspberry Pi&logoColor=white"/>
-</span>
-<br>
-<span>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/>
-</span>
-<br>
-<span>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
-</span>
-<br><br>
+## 🎓 Academic Background
+| 기간               | Institution                          | Major                                | Degree    | 비고            |
+|-----------------|----------------------------------|-------------------------------------|----------|----------------|
+| 2022.03 ~ 2026.02 | Dong-Eui University              | Artificial Intelligence (Engineering) | enrolled | GPA 3.83 / 4.5  |
 
-## Online Presence
-<span>
-    <a href="https://github.com/myoungse">
-        <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
-    </a>
-</span>&nbsp;
-<span>
-    <a href="https://velog.io/@myoungse0112/posts">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
-    </a>
-</span>
+---
 
-## Contact
-<span>
-    <img src="https://img.shields.io/badge/Discord_audtp-535353?labelColor=5865F2>
-</span>
-<br><br><br>
+## 🛠 Skills & Tools
 
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Artificial Intelligence
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+
+### Cloud System
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
+### Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Mobile App Development
+
+### Data Visualization & Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+---
+
+## 🏆 Certifications
+- 빅데이터분석기사 필기합격 *(2025.04.25)*
+
+---
+
+## 💼 Experience
+| 기간                    | 기관/프로젝트                                | 역할/활동                           |
+|-----------------------|----------------------------------------|------------------------------------|
+| Jul 2024 – Aug 2024     | LG Aimers                              | 제품 이상탐지 프로젝트 수료            |
+| Oct 2024 – Nov 2024     | 제6회 POSTECH OIBC Challenge           | 전력가격 예측 프로젝트 (연구소상 수상) |
+
+---
+
+## 🌐 Language Proficiency
+| Language  | Score |
+|-----------|-------|
+
+---
+
+## 📫 Contact
+- Email: ekbin93@gmail.com / ekbin93@naver.com  
+- GitHub: [myoungse](https://github.com/myoungse)
