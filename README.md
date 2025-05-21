@@ -79,3 +79,4 @@ AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데�
 ## 📫 Contact
 - Email: ekbin93@gmail.com / ekbin93@naver.com  
 - GitHub: [myoungse](https://github.com/myoungse)
+- Huggingface : [myoungse](https://huggingface.co/myoungse)
