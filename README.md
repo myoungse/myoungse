@@ -58,6 +58,7 @@ AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데�
 
 ## 🏆 Certifications
 - 빅데이터분석기사 필기합격 *(2025.04.25)*
+- NAVER Cloud Platform Certified Assosiate (NCA) 합격 *(2025.07.04)*
 
 ---
 
