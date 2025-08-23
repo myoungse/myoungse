@@ -71,7 +71,7 @@ AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데�
 | Oct 2024 – Nov 2024     | 제6회 POSTECH OIBC Challenge         | 전력가격 예측 프로젝트 (연구소상 수상) |
 | Mar 2025 - In Progress  | 캡스톤디자인 (시각장애인을 위한 스마트폰 안내견 앱) | 팀원 / |
 | June 2025 - Oct 2025    | [BUFF Program (Kamko & BNK부산은행 주최)] |                                 |
-| July 2025 - July 2025   | [2025 Naver Cloud Computing Bootcamp] |naver cloud platform 기능 이론 공부 및 실습 & 팀 프로젝트 진행 |
+| July 2025 - July 2025   | [2025 Naver Cloud Computing Bootcamp] |naver cloud platform 기능 이론 공부 및 실습 & 팀 프로젝트 진행 (팀 프로젝트 3위 수상) |
 
 ---
 
