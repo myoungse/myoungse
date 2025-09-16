@@ -73,6 +73,8 @@ AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데�
 | June 2025 - Oct 2025    | [BUFF Program (Kamko & BNK부산은행 주최)] |                                 |
 | July 2025 - July 2025   | [2025 Naver Cloud Computing Bootcamp] |naver cloud platform 기능 이론 공부 및 실습 & 팀 프로젝트 진행 (팀 프로젝트 3위 수상) |
 | Aug 2025 - Aug 2025   | AI 프롬프트 엔지니어링 전문가 양성 과정 | AI 프롬프트 엔지니어링 교육 수료 |
+| Sep 2025 - Sep 2025   | Goolgle AI Essentials Program | Goolgle AI Essentials Program 교육 수료 |
+| Sep 2025 - Sep 2025   | 분당서울대학교병원 M.A.R.S. 2025 의무기록지 생성 데이터톤 | 팀장 |
 
 ---
 
