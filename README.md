@@ -81,7 +81,7 @@ AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데�
 ## 🌐 Language Proficiency
 | Language  | Score |
 
-|OPIc|IM1|
+| OPIc | IM1 |
 
 ---
 
