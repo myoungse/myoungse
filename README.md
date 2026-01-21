@@ -14,7 +14,7 @@ AI 모델 개발과 딥러닝을 중심으로 공부하였고 AI 외에도 데�
 ## 🎓 Academic Background
 | 기간               | Institution                          | Major                                | Degree    | 비고            |
 |-----------------|----------------------------------|-------------------------------------|----------|----------------|
-| 2022.03 ~ 2026.02 | Dong-Eui University              | Artificial Intelligence (Engineering) | enrolled | GPA 3.87 / 4.5  |
+| 2022.03 ~ 2026.02 | Dong-Eui University              | Artificial Intelligence (Engineering) | enrolled | GPA 3.92 / 4.5  |
 
 ---
 
